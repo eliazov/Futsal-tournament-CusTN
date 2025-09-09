@@ -15,7 +15,11 @@ After learning React, I add a new part of the frontend using a <b>component-base
 ---
 ### Design
 For the design of the site I used a w3school css template, in order to keep only the essential information and make the site simple to use. 
-
+![homepage](./media/home1.png)
+![homepage](./media/home2.png)
+<p>
+  <img src="">
+</p>
 ---
 ### Motivation and History
 At my university, there were no structured sporting events dedicated to five-a-side football, despite the strong interest among students. This lack of opportunities created a gap in student life and limited occasions for social interaction through sports.
