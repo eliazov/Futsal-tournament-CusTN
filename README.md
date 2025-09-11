@@ -1,6 +1,6 @@
 # Futsal-tournament-CusTN
 ### Project description
-I organized a university five-a-side football tournament involving over 1,200 students. The competition featured a group stage followed by knockout rounds; dozens of teams played hundreds of matches. To efficiently manage the event, I developed a dedicated website that tracks match results, standings, and team statistics in real time. 
+I organized a university five-a-side football tournament involving over 130 students. The competition featured a group stage followed by knockout rounds; dozens of teams played hundreds of matches. To efficiently manage the event, I developed a dedicated website that tracks match results, standings, and team statistics in real time. 
 <br>Website: <a href="https://campionatounitn.altervista.org/">Campionato UniTn</a>
 
 ---
@@ -27,4 +27,4 @@ For the design of the site I used a w3school css template, in order to keep only
 At my university, there were no structured sporting events dedicated to five-a-side football, despite the strong interest among students. This lack of opportunities created a gap in student life and limited occasions for social interaction through sports.
 <br>I wanted to fill this gap by organizing a large-scale tournament that could bring together students from different faculties, provide a competitive yet enjoyable environment, and set the foundation for future editions of the event.
 <br><br>To achieve this, I directly contacted the university’s dedicated sports office (CUS) and collaborated with them throughout the entire competition. I managed logistics, planned the rules and schedule, and developed a digital platform to track results and standings in real time.
-<br>The initiative led to the largest sports tournament of the year, with over <strong>1,200 students</strong> involved. The success of the project not only created an engaging and memorable experience for participants but also established the basis for future tournaments, ensuring continuity and growth of student-led sporting activities.
+<br>The initiative led to the largest sports tournament of the year, with over <strong>130 students</strong> involved. The success of the project not only created an engaging and memorable experience for participants but also established the basis for future tournaments, ensuring continuity and growth of student-led sporting activities.
